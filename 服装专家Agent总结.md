@@ -88,7 +88,7 @@ dense_weight = 0.6，sparse_weight = 0.4，retrieval_top_k = 50，rerank_top_k =
 
 ### 6.2 智能分块策略
 
-max_chunk_size = 1300，max_unit_size = 4096，overlap_size = 60
+max_chunk_size = 512，max_unit_size = 1024，overlap_size = 60
 
 ### 6.3 爬虫采集策略
 
